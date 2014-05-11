@@ -1,3 +1,8 @@
+## Instructions
+
+The R script files as well as plot png files created by me can be found in the parent directory of the repository
+
+============================================================================
 ## Introduction
 
 This assignment uses data from
